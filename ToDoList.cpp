@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <string>
+#include <stdexcept>
 
 int main(){
     bool reask = true;
